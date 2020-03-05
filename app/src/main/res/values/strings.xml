@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KamelenRace</string>
+    <string name="str_tv_sepperay">SeppeRay</string>
+    <string name="str_tv_magicmike">Magic Mike</string>
+    <string name="str_tv_leonaire">Leonaire</string>
+    <string name="str_btn_start">Start the race</string>
+</resources>
